@@ -1,7 +1,7 @@
-# Mid-term Project-Competitor Analysis with Open Data
+# Mid-term Project
 LHL DS May 29th Cohort Midterm Project (Mehzabeen, Nasser, Sam)
 
-There are several hotels around the city of Toronto. By using the Yelp API, we have gathered information about these hotels and at the same time all the restaurants that are found within a 200m radius around those hotels. Our goal is to see whether these restaurants are a contributing factor for profitability for any new business seeking to enter the industry in the city of Toronto.
+There are several hotels around the city of Toronto. By using the Yelp API, we have gathered information about these hotels and at the same time all the restaurants that are found within a 200m radius of those hotels. Our goal is to see whether these restaurants are a contributing factor for profitability for any new business seeking to enter the industry in the city of Toronto.
 
 ## Question
 - How do nearby Points of Interests - (Restaurants) affect the popularity, price, and ratings of hotels in the city of Toronto?
@@ -31,11 +31,12 @@ There are several hotels around the city of Toronto. By using the Yelp API, we h
 
 - Create a dashboard to present our findings
 
-Result
+## Result
+
+- We Found some correlation between the number of Restaurants and the Hotel Prices, Hotel Ratings and Reviews. However they are not the determining factors. We need to add more metrics in the equation to get a better analysis and model fit.
 
 
-Challenges
+## Challenges
 
 - We have tried a couple of APIs. Some were easily accessible, others required a website like the walkscore API. We also had the limit constraint but we managed to pull a sample data to start an anlysis and from there we gathered more data.
 
-- 
